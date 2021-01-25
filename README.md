@@ -1,11 +1,11 @@
-I am a PhD student working with Prof. Paul Palmer in the [Atmospheric Composition Modelling Group](http://www.palmergroup.org/) at the [School of GeoSciences](https://www.ed.ac.uk/geosciences), the [University of Edinburgh](https://www.ed.ac.uk/). My research interests primarily lie in leveraging satellite observations and cutting-edge models to understand spatiotemporal variabilities of particulate matter (PM) and PM’s downstream impacts (e.g. population exposure, solar photovoltaic electricity, etc). More information about my research, teaching, and life can be found on my [personal website](https://feiyao-edinburgh.github.io/).
-
 [![](https://img.shields.io/github/followers/FeiYao-Edinburgh?label=Followers&style=social)](https://github.com/FeiYao-Edinburgh?tab=followers)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FeiYao-Edinburgh.FeiYao-Edinburgh)
 [![](https://img.shields.io/badge/Stack-Oveflow-yellow)](https://stackoverflow.com/users/10884756/fei-yao)
 [![](https://img.shields.io/badge/ResearchGate-green)](https://www.researchgate.net/profile/Fei_Yao8)
 [![](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?user=eiy4D-YAAAAJ&hl=en)
 [![](https://img.shields.io/badge/ORCID-green)](http://orcid.org/0000-0002-8327-3252)
+
+I am a PhD student working with Prof. Paul Palmer in the [Atmospheric Composition Modelling Group](http://www.palmergroup.org/) at the [School of GeoSciences](https://www.ed.ac.uk/geosciences), the [University of Edinburgh](https://www.ed.ac.uk/). My research interests primarily lie in leveraging satellite observations and cutting-edge models to understand spatiotemporal variabilities of particulate matter (PM) and PM’s downstream impacts (e.g. population exposure, solar photovoltaic electricity, etc). More information about my research, teaching, and life can be found on my [personal website](https://feiyao-edinburgh.github.io/).
 
 
 <!--
