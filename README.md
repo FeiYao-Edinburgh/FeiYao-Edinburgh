@@ -1,5 +1,5 @@
 [![](https://img.shields.io/github/followers/FeiYao-Edinburgh?label=Followers&style=social)](https://github.com/FeiYao-Edinburgh?tab=followers)
-[![](https://img.shields.io/badge/Stack-Oveflow-yellow)](https://stackoverflow.com/users/10884756/fei-yao)
+[![](https://img.shields.io/stackexchange/stackoverflow/r/10884756)](https://stackoverflow.com/users/10884756/fei-yao)
 [![](https://img.shields.io/badge/ResearchGate-green)](https://www.researchgate.net/profile/Fei_Yao8)
 [![](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?user=eiy4D-YAAAAJ&hl=en)
 [![](https://img.shields.io/badge/ORCID-green)](http://orcid.org/0000-0002-8327-3252)
