@@ -1,5 +1,4 @@
 [![](https://img.shields.io/github/followers/FeiYao-Edinburgh?label=Followers&style=social)](https://github.com/FeiYao-Edinburgh?tab=followers)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=FeiYao-Edinburgh.FeiYao-Edinburgh)
 [![](https://img.shields.io/badge/Stack-Oveflow-yellow)](https://stackoverflow.com/users/10884756/fei-yao)
 [![](https://img.shields.io/badge/ResearchGate-green)](https://www.researchgate.net/profile/Fei_Yao8)
 [![](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?user=eiy4D-YAAAAJ&hl=en)
@@ -10,6 +9,9 @@ I am a PhD student working with Prof. Paul Palmer in the [Atmospheric Compositio
 
 <!--
 **FeiYao-Edinburgh/FeiYao-Edinburgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=FeiYao-Edinburgh.FeiYao-Edinburgh)
+
 
 Here are some ideas to get you started:
 
